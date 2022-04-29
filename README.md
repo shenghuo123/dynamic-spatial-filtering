@@ -1,6 +1,13 @@
 # Dynamic spatial filtering
 
-Code for Banville et al., "Robust learning from corrupted EEG with dynamic spatial filtering", arXiv, 2021.
+Robust learning from corrupted EEG with dynamic spatial filtering
+
+Robust learning from corrupted EEG with dynamic spatial filtering
+
+Code for Banville et al., "
+Robust learning from corrupted EEG with dynamic spatial filtering
+
+Robust learning from corrupted EEG with dynamic spatial filtering", arXiv, 2021.
 
 https://arxiv.org/abs/2105.12916
 
